@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Microsoft.NonprofitData.Fundraising",
+    "displayName": "ddd"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7736d984-d61b-8e52-4510-922a788bf9b3"
+  }
+}

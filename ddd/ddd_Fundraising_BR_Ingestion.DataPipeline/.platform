@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "ddd_Fundraising_BR_Ingestion",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e8482a6a-8423-a123-4daa-408ff0217514"
+  }
+}

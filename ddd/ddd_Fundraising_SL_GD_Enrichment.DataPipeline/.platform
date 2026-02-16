@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "ddd_Fundraising_SL_GD_Enrichment",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "31282f1a-3c86-9a87-415a-db6518520535"
+  }
+}

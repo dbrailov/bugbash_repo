@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "ddd_Fundraising_GD_CreateSegments",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3bb043aa-68bb-8814-4ca0-9aee67ed57c9"
+  }
+}
