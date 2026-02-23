@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Fabric.ClientSideAuthFERemote2.HelloWorld",
+    "displayName": "item1"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "89040ae8-b451-93b5-478d-aa38cd0eb24a"
+  }
+}
