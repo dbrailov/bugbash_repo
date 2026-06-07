@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Org.CiCdWorkloadSample.HelloWorld",
+    "displayName": "ddd"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1ef99504-6d02-b0dd-439b-ca7f540c3898"
+  }
+}
